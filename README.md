@@ -1,3 +1,3 @@
 # Extreme_sports_custom
-Custom watch face with extended aod
-![](images/frame.png)
+Custom watch face from official with extended AOD
+![Link to install](images/frame.png)
