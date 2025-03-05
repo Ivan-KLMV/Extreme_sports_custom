@@ -1,4 +1,5 @@
 # Extreme_sports_custom
-<title>Custom watch face from official with extended AOD</title>
+<h1>Custom watch face from official with extended AOD</h1>
 <img src="images/Preview.gif" alt="Preview" width="300">
-![Link to install](images/frame.png)
+<img src="images/frame.png" alt="Link to install" width="300">
+
